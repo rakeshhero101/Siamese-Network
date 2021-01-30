@@ -2,9 +2,6 @@
 Advanced Topics in Artificial Intelligence IFN 680
 Assignment 2: Siamese Network
 
-Team members:
-Mary Rose Legaspi    	N10086820
-Minwoo Kang             N9913351
 Rakesh Maharjan       	N10032711
 
 '''
